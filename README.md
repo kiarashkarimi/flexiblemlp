@@ -13,4 +13,4 @@ You just have to open the main.ipynb file using a text editor and connect you da
 
 Download the whole project using this git-bash command:
 ```bash
-git clone https://github.com/kiarashkarimi/flexiblemlp.git
+git clone https://github.com/kiarashkarimi/FlexibleMLP.git
